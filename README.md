@@ -10,7 +10,7 @@
 * Twitter: [@kammradt](https://twitter.com/kammzinho)
 * Github: [@kammradt](https://github.com/kammradt)
 * LinkedIn: [@vinicius-kammradt](https://linkedin.com/in/vinicius-kammradt)
-* LinkedIn: [Vinicius Kammradt](https://www.urionlinejudge.com.br/judge/en/profile/444275)
+* URI: [Vinicius Kammradt](https://www.urionlinejudge.com.br/judge/en/profile/444275)
 
 
 ## Show your support
